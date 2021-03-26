@@ -6,3 +6,6 @@ Home for data project
 ## Motivation
 This data is very meaningful to me. 
 
+## One Figure
+
+<img src=" ">
